@@ -101,20 +101,6 @@
       "sizeBytes": 105561934,
       "minAndroid": 19,
       "category": "Outils"
-    },
-    {
-      "id": "firefox",
-      "name": "Firefox",
-      "packageName": "org.mozilla.firefox",
-      "versionName": "149.0.1",
-      "versionCode": 2016152287,
-      "description": "Navigateur Firefox pour l'accès au Web.",
-      "iconUrl": "https://benaoufs2025-png.github.io/Store-cool/icons/firefox.webp",
-      "apkUrl": "https://github.com/mimoumer98-wq/mg-store-catalog/releases/download/apps-v1/firefox-149.0.1.apk",
-      "sha256": "d6b085a41cf5d8445e5591debe1888cf81342c344e16894d90241490bc5ca7aa",
-      "sizeBytes": 613568559,
-      "minAndroid": 26,
-      "category": "Internet"
     }
   ]
 }
