@@ -122,7 +122,7 @@
       "packageName": "com.shihab.diplay",
       "versionName": "0.2.79",
       "versionCode": 99,
-      "description": "Affichage d'instrumentation / tête haute.",
+      "description": "CarPlay & Android Auto sans fil sur l autoradio.",
       "apkUrl": "https://github.com/mimoumer98-wq/mg-store-catalog/releases/download/apps-v1/DiPlay-v0.2.79-legacy-release.apk",
       "sha256": "02e13dd42a2b0d5b2bdecfc6cec392e2faa6f21ce37030cca0dcef0151ec755a",
       "sizeBytes": 17945383,
