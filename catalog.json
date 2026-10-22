@@ -33,20 +33,6 @@
       "iconUrl": "https://benaoufs2025-png.github.io/Store-cool/icons/freetube.png"
     },
     {
-      "id": "black-screen",
-      "name": "Black Screen",
-      "packageName": "net.mxbi.blackscreen",
-      "versionName": "1.1",
-      "versionCode": 2,
-      "description": "Écran noir rapide pour réduire la luminosité ou masquer l’affichage.",
-      "apkUrl": "https://github.com/mimoumer98-wq/mg-store-catalog/releases/download/apps-v1/black-screen-1.1.apk",
-      "sha256": "eed058acc5cb034c17014ccd41cd990ebedabf41a0bc0beda038ea2067d0233b",
-      "sizeBytes": 1049023,
-      "minAndroid": 14,
-      "category": "Outils",
-      "iconUrl": "https://benaoufs2025-png.github.io/Store-cool/icons/black-screen.png"
-    },
-    {
       "id": "smarttube",
       "name": "SmartTube",
       "packageName": "org.smarttube.stable",
@@ -101,6 +87,20 @@
       "sizeBytes": 105561934,
       "minAndroid": 19,
       "category": "Outils"
+    },
+    {
+      "id": "black-screen",
+      "name": "Black Screen",
+      "packageName": "io.japp.blackscreen",
+      "versionName": "1.8.5",
+      "versionCode": 73,
+      "description": "Écran noir rapide pour réduire la luminosité ou masquer l'affichage.",
+      "apkUrl": "https://github.com/mimoumer98-wq/mg-store-catalog/releases/download/apps-v1/Black_Screen_universal.apk",
+      "sha256": "c8b86eb84a9a98c93da4525d659760a0c1783a09aff0d170840359eaa46b40c8",
+      "sizeBytes": 7113047,
+      "minAndroid": 21,
+      "category": "Outils",
+      "featured": false
     }
   ]
 }
