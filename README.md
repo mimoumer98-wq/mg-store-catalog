@@ -49,7 +49,4 @@ prochaine ouverture (l'app relit le catalogue en ligne ; aucune réinstallation 
 - `add-app.sh` — ajout d'une app en une commande.
 - `apps/` — les APK en local (uploadées en Release, non versionnées).
 
-## Important (droits)
-Tu es responsable de n'y mettre que des apps que tu as le **droit** de distribuer (tes apps, ou des
-apps libres/open-source). Les apps **propriétaires** (YouTube, Spotify, Chrome, Maps, TikTok…) et de
-**streaming** relèvent de leurs licences respectives.
+
