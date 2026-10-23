@@ -128,7 +128,8 @@
       "sizeBytes": 17945383,
       "minAndroid": 21,
       "category": "Auto",
-      "featured": false
+      "featured": false,
+      "iconUrl": "https://mimoumer98-wq.github.io/mg-store-catalog/icons/diplay.png"
     },
     {
       "id": "fr-coolray-button",
