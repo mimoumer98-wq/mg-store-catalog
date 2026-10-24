@@ -4,6 +4,21 @@
   "catalogRevision": "2026-10-22-2",
   "apps": [
     {
+      "id": "mg-store",
+      "name": "MG Store",
+      "packageName": "com.mgstore.app",
+      "versionName": "1.0",
+      "versionCode": 100,
+      "description": "Le store MG Store lui-meme — recevez ses mises a jour ici.",
+      "apkUrl": "https://github.com/mimoumer98-wq/mg-store-catalog/releases/download/apps-v1/MG-Store.apk",
+      "sha256": "e00f52d120919f15f91c1b1a766c950d552ac43de25fa4908d1211502fe8b3bb",
+      "sizeBytes": 5059223,
+      "minAndroid": 26,
+      "iconUrl": "https://mimoumer98-wq.github.io/mg-store-catalog/icons/com.mgstore.app.png",
+      "category": "Outils",
+      "featured": true
+    },
+    {
       "id": "organic-maps",
       "name": "Organic Maps",
       "packageName": "app.organicmaps",
