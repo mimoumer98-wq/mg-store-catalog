@@ -100,7 +100,8 @@
       "sizeBytes": 7113047,
       "minAndroid": 21,
       "category": "Outils",
-      "featured": false
+      "featured": false,
+      "iconUrl": "https://mimoumer98-wq.github.io/mg-store-catalog/icons/io.japp.blackscreen.png"
     },
     {
       "id": "com-coolray-dash",
@@ -171,7 +172,8 @@
       "sizeBytes": 306408,
       "minAndroid": 21,
       "category": "Auto",
-      "featured": false
+      "featured": false,
+      "iconUrl": "https://mimoumer98-wq.github.io/mg-store-catalog/icons/com.coolray.morphius.hu.png"
     },
     {
       "id": "com-glide-cam",
@@ -255,7 +257,8 @@
       "sizeBytes": 15287181,
       "minAndroid": 21,
       "category": "Auto",
-      "featured": false
+      "featured": false,
+      "iconUrl": "https://mimoumer98-wq.github.io/mg-store-catalog/icons/com.andrerinas.headunitrevived.png"
     },
     {
       "id": "headunit-reloaded",
