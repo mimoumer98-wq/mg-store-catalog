@@ -4,7 +4,7 @@ import crypto from 'crypto';
 // Teste l'auto-mise a jour de MG Store sur le VRAI catalogue en ligne.
 const CATALOG = 'https://mimoumer98-wq.github.io/mg-store-catalog/catalog.json';
 const PKG = 'com.mgstore.app';
-const EXPECTED_VC = 101;
+const EXPECTED_VC = 102;
 
 // Reproduit la logique de l'app (InstallManager/statusFor)
 function decide(installed: number | null, catalogVc: number): string {
@@ -13,7 +13,7 @@ function decide(installed: number | null, catalogVc: number): string {
   return 'Ouvrir';
 }
 
-test('catalogue sert MG Store avec la nouvelle version (101)', async ({ request }) => {
+test('catalogue sert MG Store avec la nouvelle version (102)', async ({ request }) => {
   const cat = await (await request.get(CATALOG)).json();
   const mg = cat.apps.find((a: any) => a.packageName === PKG);
   expect(mg, 'MG Store present dans son propre catalogue').toBeTruthy();
