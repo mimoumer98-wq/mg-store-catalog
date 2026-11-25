@@ -1,18 +1,18 @@
 {
   "schemaVersion": 1,
   "name": "MG Store",
-  "catalogRevision": "2026-10-22-2",
+  "catalogRevision": "2026-11-25-1",
   "apps": [
     {
       "id": "mg-store",
       "name": "MG Store",
       "packageName": "com.mgstore.app",
-      "versionName": "1.2",
-      "versionCode": 102,
+      "versionName": "1.3",
+      "versionCode": 103,
       "description": "Le store MG Store lui-meme — recevez ses mises a jour ici.",
       "apkUrl": "https://github.com/mimoumer98-wq/mg-store-catalog/releases/download/apps-v1/MG-Store.apk",
-      "sha256": "d79417301d0c7c6372d49e62467decef7df88e7ede94ab56caa2b2c17182b998",
-      "sizeBytes": 5059223,
+      "sha256": "3cd8b2458ae63283931bdf154cc8739ae7b75223ce2533f42f9df1ae6ad65001",
+      "sizeBytes": 5063319,
       "minAndroid": 26,
       "iconUrl": "https://mimoumer98-wq.github.io/mg-store-catalog/icons/com.mgstore.app.png",
       "category": "Outils",
@@ -31,7 +31,7 @@
       "minAndroid": 21,
       "category": "Navigation",
       "featured": true,
-      "iconUrl": "https://benaoufs2025-png.github.io/Store-cool/icons/organic-maps.png"
+      "iconUrl": "https://mimoumer98-wq.github.io/mg-store-catalog/icons/app.organicmaps.png"
     },
     {
       "id": "freetube",
@@ -73,7 +73,8 @@
       "sha256": "9fa3d8fa26c3c6816923f0e357a233f982e633932e8602a614abdfa797ec5623",
       "sizeBytes": 35933852,
       "minAndroid": 17,
-      "category": "Multimédia"
+      "category": "Multimédia",
+      "iconUrl": "https://mimoumer98-wq.github.io/mg-store-catalog/icons/org.videolan.vlc.png"
     },
     {
       "id": "quran",
@@ -82,7 +83,7 @@
       "versionName": "3.6.1",
       "versionCode": 3610,
       "description": "Lecture et consultation du Coran.",
-      "iconUrl": "https://benaoufs2025-png.github.io/Store-cool/icons/quran.png",
+      "iconUrl": "https://mimoumer98-wq.github.io/mg-store-catalog/icons/com.quran.labs.androidquran.png",
       "apkUrl": "https://github.com/mimoumer98-wq/mg-store-catalog/releases/download/apps-v1/quran-3.6.1.apk",
       "sha256": "bd12cfff2b0dbd2713c373b304f279e93e17b5ff951bda3abe09cf5b57342935",
       "sizeBytes": 7676700,
@@ -93,13 +94,13 @@
       "id": "microg",
       "name": "microG Services",
       "packageName": "app.revanced.android.gms",
-      "versionName": "0.3.13.2.250932",
-      "versionCode": 250932004,
+      "versionName": "6.1.4",
+      "versionCode": 255034004,
       "description": "Service requis par YouTube ReVanced.",
-      "iconUrl": "https://benaoufs2025-png.github.io/Store-cool/icons/microg.png",
-      "apkUrl": "https://github.com/mimoumer98-wq/mg-store-catalog/releases/download/apps-v1/microg-0.3.13.2.apk",
-      "sha256": "62119f040d629a9cd3225f280649a464936730c6466cafb5b9dd5ded14269a65",
-      "sizeBytes": 105561934,
+      "iconUrl": "https://mimoumer98-wq.github.io/mg-store-catalog/icons/app.revanced.android.gms.png",
+      "apkUrl": "https://github.com/mimoumer98-wq/mg-store-catalog/releases/download/apps-v1/microg-6.1.4.apk",
+      "sha256": "907b0f1d64d4bdf2fc15df596129cdf9f140f5360f557d24ff2e987c9f586f15",
+      "sizeBytes": 13393291,
       "minAndroid": 19,
       "category": "Outils"
     },
@@ -117,20 +118,6 @@
       "category": "Outils",
       "featured": false,
       "iconUrl": "https://mimoumer98-wq.github.io/mg-store-catalog/icons/io.japp.blackscreen.png"
-    },
-    {
-      "id": "com-coolray-dash",
-      "name": "Coolray Dash",
-      "packageName": "com.coolray.dash",
-      "versionName": "1.47-widget-theme-button",
-      "versionCode": 48,
-      "description": "Ordinateur de bord FR/EN/AR avec widgets et thèmes.",
-      "apkUrl": "https://github.com/mimoumer98-wq/mg-store-catalog/releases/download/apps-v1/OrdinateurDeBord_FR_EN_AR_BoutonThemeWidget_v1.47.apk",
-      "sha256": "23b926e1fb60354b209a5e64a224f1d23944ef95f354212a3b19cabb35e8668e",
-      "sizeBytes": 1866188,
-      "minAndroid": 21,
-      "category": "Auto",
-      "featured": false
     },
     {
       "id": "com-shihab-diplay",
@@ -202,7 +189,8 @@
       "sizeBytes": 5418612,
       "minAndroid": 21,
       "category": "Auto",
-      "featured": false
+      "featured": false,
+      "iconUrl": "https://mimoumer98-wq.github.io/mg-store-catalog/icons/com.glide.cam.png"
     },
     {
       "id": "com-bilang042-aureseyes",
@@ -216,7 +204,8 @@
       "sizeBytes": 13540751,
       "minAndroid": 21,
       "category": "Auto",
-      "featured": false
+      "featured": false,
+      "iconUrl": "https://mimoumer98-wq.github.io/mg-store-catalog/icons/com.bilang042.aureseyes.png"
     },
     {
       "id": "com-dmkcv-sunray",
@@ -230,7 +219,8 @@
       "sizeBytes": 7417912,
       "minAndroid": 21,
       "category": "Outils",
-      "featured": false
+      "featured": false,
+      "iconUrl": "https://mimoumer98-wq.github.io/mg-store-catalog/icons/com.dmkcv.sunray.png"
     },
     {
       "id": "com-dmkcv-stagelight",
@@ -244,7 +234,8 @@
       "sizeBytes": 22958513,
       "minAndroid": 21,
       "category": "Outils",
-      "featured": false
+      "featured": false,
+      "iconUrl": "https://mimoumer98-wq.github.io/mg-store-catalog/icons/com.dmkcv.stagelight.webp"
     },
     {
       "id": "com-coolray-holcal",
@@ -301,7 +292,8 @@
       "sha256": "3d9414001b3e2555831cd014df2c9ae5a6eab10190c4cffce7ecaad3c0f53f23",
       "sizeBytes": 160143409,
       "minAndroid": 26,
-      "category": "Outils"
+      "category": "Outils",
+      "iconUrl": "https://mimoumer98-wq.github.io/mg-store-catalog/icons/com.android.chrome.png"
     },
     {
       "id": "ayah",
@@ -371,7 +363,7 @@
       "sizeBytes": 9844718,
       "minAndroid": 21,
       "category": "Outils",
-      "iconUrl": "https://benaoufs2025-png.github.io/Store-cool/icons/file-manager-plus.png"
+      "iconUrl": "https://mimoumer98-wq.github.io/mg-store-catalog/icons/com.alphainventor.filemanager.png"
     },
     {
       "id": "gps-navigation",
@@ -398,7 +390,8 @@
       "sha256": "1ca3f05850e0cd93dc2acb4a21c13620d700a042ca814a7de8619d3e79a76ce6",
       "sizeBytes": 4239815,
       "minAndroid": 24,
-      "category": "Outils"
+      "category": "Outils",
+      "iconUrl": "https://mimoumer98-wq.github.io/mg-store-catalog/icons/com.salat.gsplit.webp"
     },
     {
       "id": "iron-tv-max",
@@ -412,7 +405,7 @@
       "sizeBytes": 80235833,
       "minAndroid": 21,
       "category": "Multimédia",
-      "iconUrl": "https://benaoufs2025-png.github.io/Store-cool/icons/iron-tv-max.png"
+      "iconUrl": "https://mimoumer98-wq.github.io/mg-store-catalog/icons/com.mbm_soft.irontvmax.png"
     },
     {
       "id": "maps",
@@ -426,7 +419,8 @@
       "sizeBytes": 99941249,
       "minAndroid": 23,
       "category": "Navigation",
-      "featured": true
+      "featured": true,
+      "iconUrl": "https://mimoumer98-wq.github.io/mg-store-catalog/icons/com.google.android.apps.maps.png"
     },
     {
       "id": "neo-4k-pro",
@@ -469,7 +463,7 @@
       "minAndroid": 21,
       "category": "Audio",
       "featured": true,
-      "iconUrl": "https://benaoufs2025-png.github.io/Store-cool/icons/spotify-lite.png"
+      "iconUrl": "https://mimoumer98-wq.github.io/mg-store-catalog/icons/com.spotify.lite.png"
     },
     {
       "id": "vradio",
@@ -483,21 +477,7 @@
       "sizeBytes": 20418867,
       "minAndroid": 28,
       "category": "Audio",
-      "iconUrl": "https://benaoufs2025-png.github.io/Store-cool/icons/vradio.png"
-    },
-    {
-      "id": "weather",
-      "name": "Météo",
-      "packageName": "com.flyme.auto.weather",
-      "versionName": "26.04.01.06",
-      "versionCode": 26040106,
-      "description": "Prévisions météo adaptées à l’affichage automobile.",
-      "apkUrl": "https://github.com/mimoumer98-wq/mg-store-catalog/releases/download/apps-v1/weather-26.04.01.06.apk",
-      "sha256": "d9fd9f8b59874e474d50eccfa347e8f1c41ab3c477d8714245382c6d5ae5bc37",
-      "sizeBytes": 5182066,
-      "minAndroid": 28,
-      "category": "Auto",
-      "iconUrl": "https://mimoumer98-wq.github.io/mg-store-catalog/icons/com.flyme.auto.weather.webp"
+      "iconUrl": "https://mimoumer98-wq.github.io/mg-store-catalog/icons/com.ilv.vradio.png"
     },
     {
       "id": "yacine-tv",
@@ -511,7 +491,7 @@
       "sizeBytes": 10304337,
       "minAndroid": 21,
       "category": "Multimédia",
-      "iconUrl": "https://benaoufs2025-png.github.io/Store-cool/icons/yacine-tv.png"
+      "iconUrl": "https://mimoumer98-wq.github.io/mg-store-catalog/icons/ver3.ycntivi.gold.png"
     },
     {
       "id": "youtube",
@@ -526,7 +506,7 @@
       "minAndroid": 28,
       "category": "Multimédia",
       "featured": true,
-      "iconUrl": "https://benaoufs2025-png.github.io/Store-cool/icons/youtube.png"
+      "iconUrl": "https://mimoumer98-wq.github.io/mg-store-catalog/icons/app.revanced.android.youtube.png"
     },
     {
       "id": "spotify",
@@ -540,7 +520,7 @@
       "sizeBytes": 145951653,
       "minAndroid": 24,
       "category": "Audio",
-      "iconUrl": "https://benaoufs2025-png.github.io/Store-cool/icons/spotify.webp"
+      "iconUrl": "https://mimoumer98-wq.github.io/mg-store-catalog/icons/com.spotify.music.webp"
     },
     {
       "id": "wallpaper",
@@ -554,7 +534,7 @@
       "sizeBytes": 20526367,
       "minAndroid": 26,
       "category": "Auto",
-      "iconUrl": "https://benaoufs2025-png.github.io/Store-cool/icons/wallpaper.png"
+      "iconUrl": "https://mimoumer98-wq.github.io/mg-store-catalog/icons/com.souqbiza.fondecran.png"
     },
     {
       "id": "tiktok-lite",
@@ -568,7 +548,7 @@
       "sizeBytes": 87082076,
       "minAndroid": 21,
       "category": "Multimédia",
-      "iconUrl": "https://benaoufs2025-png.github.io/Store-cool/icons/tiktok-lite.png"
+      "iconUrl": "https://mimoumer98-wq.github.io/mg-store-catalog/icons/com.zhiliaoapp.musically.go.png"
     },
     {
       "id": "xbooster",
@@ -582,7 +562,7 @@
       "sizeBytes": 28595201,
       "minAndroid": 21,
       "category": "Audio",
-      "iconUrl": "https://benaoufs2025-png.github.io/Store-cool/icons/xbooster.png"
+      "iconUrl": "https://mimoumer98-wq.github.io/mg-store-catalog/icons/volumebooster.sound.loud.speaker.booster.png"
     },
     {
       "id": "firefox",
@@ -596,7 +576,7 @@
       "sizeBytes": 613568559,
       "minAndroid": 26,
       "category": "Internet",
-      "iconUrl": "https://benaoufs2025-png.github.io/Store-cool/icons/firefox.webp"
+      "iconUrl": "https://mimoumer98-wq.github.io/mg-store-catalog/icons/org.mozilla.firefox.webp"
     },
     {
       "id": "drama-live",
@@ -610,7 +590,7 @@
       "sizeBytes": 16420153,
       "minAndroid": 16,
       "category": "Multimédia",
-      "iconUrl": "https://benaoufs2025-png.github.io/Store-cool/icons/drama-live.png"
+      "iconUrl": "https://mimoumer98-wq.github.io/mg-store-catalog/icons/com.livedrama.app.png"
     },
     {
       "id": "angry-birds",
